@@ -222,7 +222,7 @@ if __name__ == "__main__":
     main()
 ```
 
-I started with a simple zero-shot prompt, and the output code was very basic and barely had any storytelling or narrative at all. The second prompt was a few-shot but very open-ended to incorporate more of the narrative and storytelling elements. The third prompt was a few-shot which had clear instructions on what to include. The output captured narrative and storytelling elements much better.
+I started with a simple zero-shot prompt, and the output code was very basic and barely had any storytelling or narrative at all. The second prompt was a few-shot but very open-ended to incorporate more of the narrative and storytelling elements. The third prompt was a meta prompt which had clear instructions on what to include. The output captured narrative and storytelling elements much better.
 
 ## 3. Output Evaluation
 
